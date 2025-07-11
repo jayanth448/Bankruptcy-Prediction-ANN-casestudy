@@ -13,4 +13,4 @@ Extra Trees Classifier
 Stacking Classifier: A Stacking Classifier was implemented, integrating predictions from Random Forest, LightGBM, and Extra Trees into a meta-learner (Logistic Regression) to produce final, enhanced predictions.
 Results: The Stacking Classifier achieved an impressive accuracy of approximately 97%, outperforming individual base models (Random Forest: ~94%, LightGBM: ~95%, Extra Trees: ~94%). This demonstrates the effectiveness of ensemble methods in financial risk assessment.
 This approach provides valuable insights for assessing risk and making data-driven decisions in the financial sector.
-#MachineLearning #BankruptcyPrediction #FinancialRisk #EnsembleLearning #DataScience #ArtificialNeuralNetworks #GITAM
+
